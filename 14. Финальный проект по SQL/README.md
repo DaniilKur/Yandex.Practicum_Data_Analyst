@@ -2,7 +2,7 @@
 
 ## Схема базы данных:
 
-![bd2]([https://github.com/DaniilKur/Yandex.Practicum_Data_Analyst/blob/main/Image.png](https://github.com/DaniilKur/Yandex.Practicum_Data_Analyst/blob/main/Image%20(2).png)
+![bd2](https://github.com/DaniilKur/Yandex.Practicum_Data_Analyst/blob/main/Image%20(2).png)
 
 ## Описание данных
 
