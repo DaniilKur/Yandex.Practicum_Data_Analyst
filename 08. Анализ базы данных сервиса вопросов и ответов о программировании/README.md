@@ -4,6 +4,11 @@
 
 Провести анализ с помощью SQL запросов сервиса вопросов и ответов о программировании.
 
+## Навыки и инструменты
+
+- SQL
+- PostgreSQL
+
 ## Схема базы данных:
 
 ![bd2](https://github.com/DaniilKur/Yandex.Practicum_Data_Analyst/blob/main/Image%20(1).png)
