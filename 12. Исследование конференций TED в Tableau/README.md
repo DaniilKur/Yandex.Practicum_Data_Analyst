@@ -7,6 +7,7 @@
 ## Навыки и инструменты
 
 - Python
+- Tableau
 - Pandas
 - Matplotlib
 - Seaborn
